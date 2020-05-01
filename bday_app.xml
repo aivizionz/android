@@ -36,7 +36,7 @@
         android:layout_alignParentRight="true"
         android:layout_marginRight="20dp"
         android:layout_marginBottom="20dp"
-        android:text="From your Lord"
+        android:text="From, Lord"
         android:textSize="30sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white" />
